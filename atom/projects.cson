@@ -1,0 +1,101 @@
+[
+  {
+    title: "Harvey Api"
+    paths: [
+      "/Users/dorton/githubprojects/harvey_stuff/harvey-api"
+    ]
+    devMode: true
+  }
+  {
+    title: "Portfolio"
+    paths: [
+      "/Users/dorton/githubprojects/portfolio_stuff/portfolio"
+    ]
+  }
+  {
+    title: "Recipe Finder"
+    paths: [
+      "/Users/dorton/githubprojects/purepoint/recipe_finder"
+    ]
+    devMode: true
+  }
+  {
+    title: "Wp Api"
+    paths: [
+      "/Users/dorton/githubprojects/wp-api"
+    ]
+    devMode: true
+  }
+  {
+    title: "Recipe Puppy Search Gem"
+    paths: [
+      "/Users/dorton/githubprojects/recipe_puppy_search"
+    ]
+    devMode: true
+  }
+  {
+    title: "Vue Blog"
+    paths: [
+      "/Users/dorton/githubprojects/Vue_Blog"
+    ]
+    devMode: true
+  }
+  {
+    title: "React Blerg"
+    paths: [
+      "/Users/dorton/githubprojects/react_specialization/blerg"
+    ]
+    devMode: true
+  }
+  {
+    title: "Atomized_Root"
+    group: "Atomized"
+    paths: [
+      "/Users/dorton/githubprojects/Atomized"
+    ]
+  }
+  {
+    title: "Atomized Vue"
+    group: "Atomzied"
+    paths: [
+      "/Users/dorton/githubprojects/Atomized/atomized-vue"
+    ]
+    devMode: true
+  }
+  {
+    title: "Atomized2"
+    group: "Atomized"
+    paths: [
+      "/Users/dorton/githubprojects/Atomized/atomized2"
+    ]
+    devMode: true
+  }
+  {
+    title: "Cpvh"
+    group: "wordpress"
+    paths: [
+      "/Users/dorton/githubprojects/cpvh"
+    ]
+    devMode: true
+  }
+  {
+    title: "Dorton Bills"
+    group: "Personal"
+    paths: [
+      "/Users/dorton/githubprojects/dorton_bills"
+    ]
+  }
+  {
+    title: "Fibo Clockcci"
+    paths: [
+      "/Users/dorton/githubprojects/FiboClockcci"
+    ]
+  }
+  {
+    title: "Azuqua Get File"
+    group: "ATOMIZED"
+    paths: [
+      "/Users/dorton/githubprojects/Atomized/Azuqua_get_file"
+    ]
+  }
+]

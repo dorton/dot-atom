@@ -1,40 +1,43 @@
 "*":
+  "activate-power-mode":
+    plugins:
+      playAudio: true
+      screenShake: true
+  "autocomplete-plus": {}
   core:
-    audioBeep: false
+    closeDeletedFileTabs: true
     disabledPackages: [
-      "vim-mode"
-      "ex-mode"
-      "vim-mode-visual-block"
-      "atom-autocomplete-php"
-    ]
-    ignoredNames: [
-      ".git"
-      ".svn"
-      ".DS_Store"
+      "erb-helper"
     ]
     telemetryConsent: "no"
     themes: [
-      "spacegray-light-neue-ui"
-      "spacegray-light-syntax"
+      "seti-ui"
+      "atom-dark-syntax"
     ]
   editor:
-    fontFamily: "Inconsolata-dz"
-    fontSize: 11
+    autoIndentOnPaste: false
+    fontSize: 19
     invisibles: {}
-    zoomFontWhenCtrlScrolling: true
+    showIndentGuide: true
+  "ember-cli-helper": {}
   "exception-reporting":
-    userId: "98295608-afca-e050-81cf-334c9c527586"
+    userId: "6cf6b0e0-4341-b3f2-5f72-fa5e0a3a3bc9"
+  linter: {}
+  "linter-erb": {}
+  "linter-ui-default": {}
+  "markdown-preview": {}
   metrics:
-    userId: "5b8947cb261ad71d62ba10772a0ba4deb6529a7c"
-  minimap:
-    absoluteMode: true
-    charWidth: 1.25
-    interline: 2
-  "release-notes":
-    viewedVersion: "0.89.0"
-  "vim-mode":
-    useClipboardAsDefaultRegister: true
-    useSmartcaseForSearch: true
-    wrapLeftRightMotion: true
+    userId: "42df55686ecbe85bd2c4a8262e5e86d2fdea8434"
+  "one-dark-ui": {}
+  "platformio-ide-terminal":
+    core: {}
+    style:
+      theme: "pro"
+  "project-manager":
+    alwaysOpenInSameWindow: true
+    includeGitRepositories: true
+  react: {}
+  "tree-view":
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
